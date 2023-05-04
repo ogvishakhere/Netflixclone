@@ -1,0 +1,76 @@
+.Banner{
+    background-image: url('https://wallpapercave.com/wp/wp7836447.png');
+    background-size: cover;
+    height: 500px;
+    color: white;
+    
+    
+}
+.Banner1{
+    background-image: url('https://occ-0-2849-3646.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdfNC7D5gkJRriDLxXbMG86I7ZoEk-RDEadC69ZwGG-GNXbAKPOYkM7-OikXytoVLsVn6qVyVtIS3riwNd0W-OLLfkaTc3jO69ssXCYevBjw.png?r=c4e');
+    background-size: cover;
+    height: 350px;
+    width: 500px;
+    color: white;
+    position: absolute;
+    right: 0;
+    margin-top: 80px;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.content{
+    padding-top:140px;
+    height: 190px;
+    
+}
+.title{
+    font-size: 2rem;
+    font-weight: 750;
+    padding-bottom: 0.3rem;
+    color: #fff;
+    line-height: 30px;
+    left: 5px;
+    margin-top: 40px;
+    margin-left: 20px;
+    position: absolute;
+    border-radius: 3px;
+    background-color: rgba(51, 51, 51, .4);
+}
+.button{
+     color: white;
+    outline:none;
+    border: none;
+    font-weight: 700;
+    border-radius: 5px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem; 
+    background-color: rgba(51, 51, 51, .5);
+    cursor: pointer;
+    margin-right: 1rem;
+    margin-top: 90px;
+    margin-left: 20px;
+    left: 5px;
+    
+    
+}
+.button:hover{
+    color: black;
+    background-color: #e6e6e6;
+}
+.discription{
+    width: 45rem;
+    line-height: 1.3;
+    padding-top: 1rem;
+    font-size: 1rem;
+    height: 80px;
+    max-width:360px;
+}
+.fadebtm{
+    height: 7.4rem;
+    background-image: linear-gradient(180deg,transparent,rgba(37,37,37,.61),#111);
+
+}
